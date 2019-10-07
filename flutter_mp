@@ -1,0 +1,42 @@
+Flutter 
+Positive:
+    + Fast development time with hot reloading, great debug tools, good documentation, development tooling
+    + Fun development, makes it easier to retain and recruit employees 
+    + Develop app to both iOS and Android phones with only one team
+    + Can make UI that are extremely customizable, not limited to native ui elements
+    + Very good performance on any platform, compiled to native ARM code, no javascript involved
+    + Good community, easy to find answers to questions
+    + Use widget structure that would make it easy for us to implement the e2 model
+    + Made for the type of apps we make, so if we get any problem, there will be available solutions that are easy and fast to implement
+    + Backed and used by Google and is open source, so chances of the project dying are low
+Negative:
+    - No chromecast plugins for now
+    - Native problems (nowplaying, corespotlight, deeplink, etc.) still require native code
+    - No experts, the framework is new so people we can recruit will only be enthusiasts
+    - Uses a new programming language that we would need to learn (though it uses a similar paradigm to what we know)
+    - Does not include Apple TV and android TV and it is not a focus to support them 
+    - Does not include HTML yet, but it is their main priority and already has a technical preview available
+
+Native
+Positive:
+    + Native experience for end users
+    + Can use native plugins very easily, plugins are made for native so their documentation and support are made for native users
+    + A lot of documentation online for various problems we might face
+Negative:
+    - We don't have the inhouse knowledge to start this right away, will need time to learn
+    - Hard to recruit, talent for this is pretty rare and in high demand
+    - Will need to expand the teams quite a bit because we need seperate teams for each platform
+    - Might be harder to have perfect customizabled UI because of native restrictions
+
+Unity:
+Positive:
+    + We already have a working solution
+    + We have knowledge to keep improving that solution
+    + Positibility of doing 3D work
+    + Target all platforms, smart TVs, gaming consoles, phones, etc.
+Negative:
+    - Platform is not made for what we use it for, problems we run into don't have easy solutions, we have to make everything ourselves
+    - Very hard to recruit new people, have a very long and hard on-boarding process that would be near impossible if we were to lose key team members
+    - Bad performance
+    - Slow development, build time
+    etc..
