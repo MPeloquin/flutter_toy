@@ -1,0 +1,21 @@
+# version is the only required field
+version = 1
+
+# the following settings can be omitted since they have defaults
+
+[merge]
+automerge_label = "automerge"
+require_automerge_label = true
+blacklist_title_regex = "^WIP.*"
+blacklist_labels = ["WIP", "On Hold", "Waiting For Dependency Update"]
+method = "squash"
+delete_branch_on_merge = true
+block_on_reviews_requested = false
+notify_on_conflict = true
+optimistic_updates = true
+
+[merge.message]
+title = "pull_request_title"
+body = "pull_request_body"
+include_pr_number = true
+body_type = "markdown"
