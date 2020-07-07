@@ -18,4 +18,4 @@ optimistic_updates = true
 title = "pull_request_title"
 body = "pull_request_body"
 include_pr_number = true
-body_type = "markdown"
+body_type = "plain_text"
